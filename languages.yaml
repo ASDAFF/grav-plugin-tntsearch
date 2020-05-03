@@ -4,6 +4,10 @@ en:
     FOUND_IN: "in <span>%s</span>"
     POWERED_BY: "Powered by %s"
 ru:
+  Plugin status: "Состояние плагина"
+  Indexer Settings: "Настройки индексации"
+  Enabled: "Включено"
+  Disabled: "Выключено"
   PLUGIN_TNTSEARCH:
     FOUND_RESULTS: "Результатов: %s"
     FOUND_IN: "(<span>%s</span>)"
